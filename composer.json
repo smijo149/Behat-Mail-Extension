@@ -1,6 +1,6 @@
 {
-    "name": "tpayne/behat-mail-extension",
-    "description": "An extension for testing emails with Behat",
+    "name": "smthek/behat-mail-extension",
+    "description": "An extension for testing emails with Behat.",
     "require": {
         "guzzlehttp/guzzle": "^6.2",
         "behat/behat": "~3.0",
@@ -17,8 +17,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Tyler Payne",
-            "email": "tyler43636@gmail.com"
+            "name": "Smijo",
+            "email": "smijo.149@gmail.com"
         }
     ],
     "minimum-stability": "stable"
